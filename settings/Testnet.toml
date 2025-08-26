@@ -1,0 +1,7 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "frost galaxy exist crane bachelor attack misery spray already evoke forward wave damage color guard oak royal great number enforce dial pioneer pelican man"

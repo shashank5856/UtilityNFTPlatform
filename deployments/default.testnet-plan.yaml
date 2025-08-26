@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: UtilityNFTPlatform
+            expected-sender: STABXPH8YG88S0FN0ED2ZX9K3934186P8Y3V8H7F
+            cost: 41890
+            path: "contracts\\UtilityNFTPlatform.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
