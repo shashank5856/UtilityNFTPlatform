@@ -58,14 +58,9 @@ contract ID:STABXPH8YG88S0FN0ED2ZX9K3934186P8Y3V8H7F.UtilityNFTPlatform
 ![alt text](image.png)
 
 **Testnet Deployment:**
-- Contract Address: `[To be added after deployment]`
-- Transaction Hash: `[To be added after deployment]`
-- Block Height: `[To be added after deployment]`
-
-**Mainnet Deployment:**
-- Contract Address: `[To be added after deployment]`
-- Transaction Hash: `[To be added after deployment]`
-- Block Height: `[To be added after deployment]`
+- Contract Address: STABXPH8YG88S0FN0ED2ZX9K3934186P8Y3V8H7F.UtilityNFTPlatform
+- Transaction Hash: 0x6c53ea80acfbf62d04fa1a4dc14c9ac15312f090e32547417d4281bf74fa99f4
+- Block Height: 0x057360ee30fe6f58577f5dd90252b93a91427413e87a6adcdf30b9556b3a05dd
 
 **Network Information:**
 - Blockchain: Stacks Blockchain
@@ -97,4 +92,5 @@ contract ID:STABXPH8YG88S0FN0ED2ZX9K3934186P8Y3V8H7F.UtilityNFTPlatform
 - Comprehensive error handling and validation
 
 ---
+
 
